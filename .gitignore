@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+.pytest_cache/
+playwright-report/
+test-results/
+
+.vscode/
+.idea/
+
+.env
